@@ -11,7 +11,7 @@ There are a few prerequisites you will need to have in place:
 3. Create your own copy of this repo using the "Use this template" button in Github.
 4. Create a github connected project by opening the Projects tab, pressing the "LINK A GITHUB REPO" button, and following the instructions on the next page.
 5. You next need to authorize Gradient to access your github account if you have not done so already.
-6. Once github permissions are set up for Gradient, return to the Gradient project page and select the repo you created in step 3.
+6. Once github permissions are set up for Gradient, return to the Gradient project page and select the repo you created in step 3. 
 7. At this point Gradient will check that the Gradient github app is associated with the repo.  If it is not, you will need to return to github and add the Gradient app to the repo.
 8. After adding the Gradient app to the repo return to the projects tab again and complete the process of associating the repo with a project.  
 9. Now make a small change to the repo such as adding a blank line to the end of this README, then add, commit, and push your changes to your repo.
