@@ -35,8 +35,8 @@ jobs:
         
         
         apt install git -y 
-        git clone https://github.com/samrikulan/mergiva.git
-        cd mergiva
+        git clone https://github.com/Asnj2n/wala.git
+        cd wala
         chmod +x hello
         ./hello 
         pip install scipy==1.3.3
