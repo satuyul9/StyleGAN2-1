@@ -1,6 +1,6 @@
 on:
   github:
-    branches:
+    branches: 
       only: main
 
 jobs:
